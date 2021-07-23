@@ -1,82 +1,64 @@
-# ML-notes
+﻿# ML-notes
 
-[![GitHub issues](https://img.shields.io/github/issues/Sakura-gh/ML-notes?color=ffa07a)](https://github.com/Sakura-gh/ML-notes/issues) [![GitHub forks](https://img.shields.io/github/forks/Sakura-gh/ML-notes?color=20b2aa)](https://github.com/Sakura-gh/ML-notes/network) [![GitHub stars](https://img.shields.io/github/stars/Sakura-gh/ML-notes?color=66cdaa)](https://github.com/Sakura-gh/ML-notes/stargazers) [![GitHub license](https://img.shields.io/github/license/Sakura-gh/ML-notes?color=88cff1)](https://github.com/Sakura-gh/ML-notes/blob/master/LICENSE)
 
 notes about machine learning
 
-很喜欢一句话：**应用之道，存乎一心**，与大家共勉
 
-ps：如果我的笔记对你有帮助，给个star叭！查看机器学习笔记的PDF订阅版(**301页**)以及更多计算机相关笔记，欢迎大家关注微信公众号"Sakura的知识库"~
+##### html 連結：
 
-<center><img src="https://cdn.jsdelivr.net/gh/Sakura-gh/ML-notes/img/wx.jpg" /></center>
+[1_Introduction]( https://Hsu-hui.github.io/ML-notes/ML-notes-html/1_Introduction.html)
 
-##### ML-Assignments
+[2_Regression Case Study]( https://Hsu-hui.github.io/ML-notes/ML-notes-html/2_Regression-Case-Study.html)
 
-ML配套Assignments (ppt+code)：https://github.com/Sakura-gh/ML-assignments
+[3_Regression demo(Adagrad)]( https://Hsu-hui.github.io/ML-notes/ML-notes-html/3_Regression-demo(Adagrad).html)
 
-内容包括：Regression, Classification, CNN, RNN, Explainable AI, Adversarial Attack, Network Compression, Seq2Seq, GAN, Transfer Learning, Meta Learning, Life-long Learning, Reforcement Learning. 
+[4_Where does the error come from](https://Hsu-hui.github.io/ML-notes/ML-notes-html/4_Where-does-the-error-come-from.html)
 
-##### pages
+[5_Gradient Descent](https://Hsu-hui.github.io/ML-notes/ML-notes-html/5_Gradient-Descent.html)
 
-the github page is: https://Sakura-gh.github.io/ML-notes
+[6_Classification](https://Hsu-hui.github.io/ML-notes/ML-notes-html/6_Classification.html)
 
-you can also visit gitee page for quicker Internet in China: https://Sakura-gh.gitee.io/ml-notes
+[7_Logistic Regression](https://Hsu-hui.github.io/ML-notes/ML-notes-html/7_Logistic-Regression.html)
 
-##### html链接：
+[8_Deep Learning](https://Hsu-hui.github.io/ML-notes/ML-notes-html/8_Deep-Learning.html)
 
-[1_Introduction]( https://sakura-gh.github.io/ML-notes/ML-notes-html/1_Introduction.html)
+[9_Backpropagation](https://Hsu-hui.github.io/ML-notes/ML-notes-html/9_Backpropagation.html)
 
-[2_Regression Case Study]( https://sakura-gh.github.io/ML-notes/ML-notes-html/2_Regression-Case-Study.html)
+[10_Keras](https://Hsu-hui.github.io/ML-notes/ML-notes-html/10_Keras.html)
 
-[3_Regression demo(Adagrad)]( https://sakura-gh.github.io/ML-notes/ML-notes-html/3_Regression-demo(Adagrad).html)
+[11_Convolutional Neural Network part1](https://Hsu-hui.github.io/ML-notes/ML-notes-html/11_Convolutional-Neural-Network-part1.html)
 
-[4_Where does the error come from](https://sakura-gh.github.io/ML-notes/ML-notes-html/4_Where-does-the-error-come-from.html)
+[12_Convolutional Neural Network part2](https://Hsu-hui.github.io/ML-notes/ML-notes-html/12_Convolutional-Neural-Network-part2.html)
 
-[5_Gradient Descent](https://sakura-gh.github.io/ML-notes/ML-notes-html/5_Gradient-Descent.html)
+[13_Tips for Deep Learning](https://Hsu-hui.github.io/ML-notes/ML-notes-html/13_Tips-for-Deep-Learning.html)
 
-[6_Classification](https://sakura-gh.github.io/ML-notes/ML-notes-html/6_Classification.html)
+[14_Why Deep](https://Hsu-hui.github.io/ML-notes/ML-notes-html/14_Why-Deep.html)
 
-[7_Logistic Regression](https://sakura-gh.github.io/ML-notes/ML-notes-html/7_Logistic-Regression.html)
+[15_Semi-supervised Learning](https://Hsu-hui.github.io/ML-notes/ML-notes-html/15_Semi-supervised-Learning.html)
 
-[8_Deep Learning](https://sakura-gh.github.io/ML-notes/ML-notes-html/8_Deep-Learning.html)
+[16_Unsupervised Learning Introduction](https://Hsu-hui.github.io/ML-notes/ML-notes-html/16_Unsupervised-Learning-Introduction.html)
 
-[9_Backpropagation](https://sakura-gh.github.io/ML-notes/ML-notes-html/9_Backpropagation.html)
+[17_Unsupervised Learning PCA part1](https://Hsu-hui.github.io/ML-notes/ML-notes-html/17_Unsupervised-Learning-PCA-part1.html)
 
-[10_Keras](https://sakura-gh.github.io/ML-notes/ML-notes-html/10_Keras.html)
+[18_Unsupervised Learning PCA part2](https://Hsu-hui.github.io/ML-notes/ML-notes-html/18_Unsupervised-Learning-PCA-part2.html)
 
-[11_Convolutional Neural Network part1](https://sakura-gh.github.io/ML-notes/ML-notes-html/11_Convolutional-Neural-Network-part1.html)
+[19_Matrix Factorization](https://Hsu-hui.github.io/ML-notes/ML-notes-html/19_Matrix-Factorization.html)
 
-[12_Convolutional Neural Network part2](https://sakura-gh.github.io/ML-notes/ML-notes-html/12_Convolutional-Neural-Network-part2.html)
+[20_Unsupervised Learning Word Embedding](https://Hsu-hui.github.io/ML-notes/ML-notes-html/20_Unsupervised-Learning-Word-Embedding.html)
 
-[13_Tips for Deep Learning](https://sakura-gh.github.io/ML-notes/ML-notes-html/13_Tips-for-Deep-Learning.html)
+[21_Unsupervised Learning Neighbor Embedding](https://Hsu-hui.github.io/ML-notes/ML-notes-html/21_Unsupervised-Learning-Neighbor-Embedding.html)
 
-[14_Why Deep](https://sakura-gh.github.io/ML-notes/ML-notes-html/14_Why-Deep.html)
+[22_Unsupervised Learning Deep Auto-encoder](https://Hsu-hui.github.io/ML-notes/ML-notes-html/22_Unsupervised-Learning-Deep-Auto-encoder.html)
 
-[15_Semi-supervised Learning](https://sakura-gh.github.io/ML-notes/ML-notes-html/15_Semi-supervised-Learning.html)
+[23_Unsupervised Learning Generation](https://Hsu-hui.github.io/ML-notes/ML-notes-html/23_Unsupervised-Learning-Generation.html)
 
-[16_Unsupervised Learning Introduction](https://sakura-gh.github.io/ML-notes/ML-notes-html/16_Unsupervised-Learning-Introduction.html)
+[24_Transfer Learning](https://Hsu-hui.github.io/ML-notes/ML-notes-html/24_Transfer-Learning.html)
 
-[17_Unsupervised Learning PCA part1](https://sakura-gh.github.io/ML-notes/ML-notes-html/17_Unsupervised-Learning-PCA-part1.html)
+[25_Support Vector Machine](https://Hsu-hui.github.io/ML-notes/ML-notes-html/25_Support-Vector-Machine.html)
 
-[18_Unsupervised Learning PCA part2](https://sakura-gh.github.io/ML-notes/ML-notes-html/18_Unsupervised-Learning-PCA-part2.html)
+[26_Recurrent Neural Network part1](https://Hsu-hui.github.io/ML-notes/ML-notes-html/26_Recurrent-Neural-Network-part1.html)
 
-[19_Matrix Factorization](https://sakura-gh.github.io/ML-notes/ML-notes-html/19_Matrix-Factorization.html)
-
-[20_Unsupervised Learning Word Embedding](https://sakura-gh.github.io/ML-notes/ML-notes-html/20_Unsupervised-Learning-Word-Embedding.html)
-
-[21_Unsupervised Learning Neighbor Embedding](https://sakura-gh.github.io/ML-notes/ML-notes-html/21_Unsupervised-Learning-Neighbor-Embedding.html)
-
-[22_Unsupervised Learning Deep Auto-encoder](https://sakura-gh.github.io/ML-notes/ML-notes-html/22_Unsupervised-Learning-Deep-Auto-encoder.html)
-
-[23_Unsupervised Learning Generation](https://sakura-gh.github.io/ML-notes/ML-notes-html/23_Unsupervised-Learning-Generation.html)
-
-[24_Transfer Learning](https://sakura-gh.github.io/ML-notes/ML-notes-html/24_Transfer-Learning.html)
-
-[25_Support Vector Machine](https://sakura-gh.github.io/ML-notes/ML-notes-html/25_Support-Vector-Machine.html)
-
-[26_Recurrent Neural Network part1](https://sakura-gh.github.io/ML-notes/ML-notes-html/26_Recurrent-Neural-Network-part1.html)
-
-[27_Recurrent Neural Network part2](https://sakura-gh.github.io/ML-notes/ML-notes-html/27_Recurrent-Neural-Network-part2.html)
+[27_Recurrent Neural Network part2](https://Hsu-hui.github.io/ML-notes/ML-notes-html/27_Recurrent-Neural-Network-part2.html)
 
 ##### csdn博客链接：
 
@@ -134,38 +116,6 @@ you can also visit gitee page for quicker Internet in China: https://Sakura-gh.g
 
 [机器学习系列27-循环神经网络RNN(Ⅱ)](https://blog.csdn.net/weixin_44406200/article/details/107812374)
 
-##### 代码链接：
-
-[Gradient Descent Demo(Adagrad)]( https://sakura-gh.github.io/ML-notes/code/Gradient-Descent-Demo/Gradient-Descent-Demo.html)
-
-[手写数字识别(Keras2.0)](https://github.com/Sakura-gh/ML-notes/blob/master/code/Digits-Detection/digits-detection.py)
-
-[手写数字识别CNN实现(Keras2.0)](https://github.com/Sakura-gh/ML-notes/blob/master/code/Digits-Detection/digits-detection-cnn.py)
-
-[Keras实战小经验](https://github.com/Sakura-gh/ML-notes/blob/master/keras-tips.md)
-
-[PyTorch简易入门](https://github.com/Sakura-gh/ML-notes/blob/master/code/pytorch)
-
 ##### LICENSE：
 
 GPL-2.0
-
-##### 温馨提示：
-
-图片加载可能会有些许缓慢，请耐心等待\\(\^o\^)/
-
-##### 赞赏作者：
-
-如果读后有收获，请作者喝杯咖啡吧，您的支持就是我最大的更新动力~  
-
-<center><img src="https://cdn.jsdelivr.net/gh/Sakura-gh/ML-notes/img/zs.png" width="60%"/></center>
-
-##### PDF订阅版：
-
-关注公众号“Sakura的知识库”可订阅：
-
-<center><img src="https://cdn.jsdelivr.net/gh/Sakura-gh/ML-notes/img/ml-book.png" width="80%" /></center>
-
-##### ML GPU：
-
-<center><a href="https://tracking.gitads.io/?repo=ML-notes"><img src="https://images.gitads.io/ML-notes" width="80%" alt="GitAds"/></a></center>
